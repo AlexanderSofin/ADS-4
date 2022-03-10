@@ -19,7 +19,7 @@ int countPairs2(int *arr, int len, int value) {
 			}
 		}
 	}
-	return couple;
+    return couple;
 }
 int countPairs3(int *arr, int len, int value) {
     int couple = 0;
